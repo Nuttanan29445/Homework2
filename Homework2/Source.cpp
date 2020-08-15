@@ -9,4 +9,5 @@ int main()
 		sum += i;
 	}
 	printf("Summary number of 1 to %d = %d",num, sum);
+	return 0;
 }
